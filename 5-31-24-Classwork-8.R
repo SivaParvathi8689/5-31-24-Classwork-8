@@ -1,3 +1,4 @@
+#Sivaparvathi
 movies <- read.csv(file.choose()) #MovieRating.csv
 head(movies)
 summary(movies)
